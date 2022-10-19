@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @koi123hhh
+- 👀 I’m interested in 吃喝玩乐
+- 🌱 I’m currently learning python
